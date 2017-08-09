@@ -1,0 +1,37 @@
+*{
+	font-family: 'Open Sans', sans-serif; 
+	
+}
+body{
+	width: 1200px;
+	height: auto;
+
+}
+body p{
+	font-size: 25px;
+}
+
+/*#container {
+	height: auto;
+	overflow: hidden;
+	
+}*/
+button{
+	width: 160px;	
+}
+button a{
+	color: #fff;
+}
+#banner{
+	display: inline-block;
+}
+footer{
+	width: 100%;
+	padding: 20px;
+}
+footer p{
+	vertical-align: center;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #fff;
+}

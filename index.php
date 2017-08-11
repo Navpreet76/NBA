@@ -28,9 +28,12 @@
       
       <img src="images/bulls.jpg" class="img-circle" alt="bulls" width="304" height="236">
     </div>
+   </div>
   </div>
+  
+    
 </div>
-
+<div id="content_one"><h1>where is this going to appear???</h1></div>
 
 <?php include 'footer.php' ?>
 

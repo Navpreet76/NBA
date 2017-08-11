@@ -28,10 +28,19 @@ button a{
 footer{
 	width: 100%;
 	padding: 20px;
+	height: 150px;
+	background-color: red;
 }
 footer p{
 	vertical-align: center;
 }
 .navbar-inverse .navbar-nav>li>a{
 	color: #fff;
+}
+col-sm-4 .dropdown{
+	padding: 2.5em;
+}
+div.col-sm-8{
+	padding-left: 100px;
+	padding-top: 100px;
 }

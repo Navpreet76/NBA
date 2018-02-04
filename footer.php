@@ -9,9 +9,8 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
-
 <div id="footer">
-	<h6><a href="http://www.nba.com">www.nba.com</a></h6>
+	<h6 class="text-primary text-center"><a href="http://www.nba.com">www.nba.com</a></h6>
 </div>
 
 </body>

@@ -14,25 +14,22 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="http://www.nba.com">The NBA</a>
+      <a class="navbar-brand" href="nba.php">The NBA</a>
     </div>
     <ul class="nav navbar-nav">
-      <li class="active"><a href="index.php">Home</a></li>
-      <li><a href="teams.php">Teams</a></li>
-      <li><a href="conferences.php">Conferences</a></li>
+      <li><a href="index.php">Teams</a></li>
       <li><a href="history.php">History</a></li>
       <li><a href="legends.php">Legends</a></li>
-      <li><a href="about.php">About</a></li>
       <li><a href="jordan.php">Jordan</a></li>
-      <li><a href="lebron.php">Lebron</a></li>
-      <li><a href="kobe.php">Kobe</a></li>
+      <li><a href="about.php">About</a></li>
+      
     </ul>
-    <form class="navbar-form navbar-left">
+    <!-- <form class="navbar-form navbar-left">
       <div class="form-group">
         <input type="text" class="form-control" placeholder="Search">
       </div>
       <button type="submit" class="btn btn-default">Submit</button>
-    </form>
+    </form> -->
   </div>
 </nav>
 

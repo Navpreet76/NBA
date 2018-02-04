@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="container">
-	<div class="col-sm-4">
+	<!-- <div class="col-sm-4">
     	<div class="dropdown">
     		<button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Teams
     		<span class="caret"></span>
@@ -44,8 +44,8 @@
     			<li><a href="#">Utah Jazz</a></li>
     		</ul>
     	</div>
-    </div>
-    <div class="col-sm-4">
+    </div> -->
+    <div class="col-md-8">
     	<div class="alert alert-success">
     	<strong><a href="rosters.php">Rosters</a></strong>
     	</div>
@@ -59,20 +59,20 @@
     		<strong><a href="hof.php">Hall of Fame</a></strong>
     	</div>
     </div>
-	<div class="col-sm-4">
+	<div class="col-md-4">
 		<img src="images/jordan1.jpg" alt="jordan1" height="350" width="390">
 
 	</div>
-	<div class="col-sm-4">
+    <div class="col-md-12">
+       <hr> 
+    </div>
+	<div class="col-md-12">
 		<p>There are 30 teams in the National Basketball Association. The teams are split among two conferences being the Eastern Conference and the Western Conference.</p>
 		<p>This is the NBA teams page with all the latest news about trades and aquisitions in the NBA.</p>
-		<p>This is the NBA teams page with all the latest news about trades and aquisitions in the NBA.</p>
-		<p>This is the NBA teams page with all the latest news about trades and aquisitions in the NBA.</p>
-		<p>This is the NBA teams page with all the latest news about trades and aquisitions in the NBA.</p>
-		<p>This is the NBA teams page with all the latest news about trades and aquisitions in the NBA.</p>
+		
 
 	</div>
-	<div class="col-sm-8">
+	<div class="col-md-8">
 		<img src="images/nbateams.jpg" alt="nbateams" width="700" height="400">
 	</div>
 </div>
